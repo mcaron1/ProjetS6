@@ -12,7 +12,7 @@ import com.google.inject.Inject;
 
 public class MainPageView extends ViewImpl implements MainPagePresenter.MyView {
 
-	private static String html = "<h1>Web Application Starter Project</h1>\n"
+	private static String html = "<h1>Test pour le changement</h1>\n"
 			+ "<table align=\"center\">\n"
 			+ "  <tr>\n"
 			+ "    <td colspan=\"2\" style=\"font-weight:bold;\">Please enter your name:</td>\n"
